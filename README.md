@@ -57,4 +57,4 @@ Feel free to reach out for collaboration, queries, or project discussions!
 
 1. **Clone this Repository**:
    ```bash
-   git clone https://github.com/mayankyadav23/Advanced-Power-BI-Projects.git
+   git clone https://github.com/antima121-bit/Advanced-University-Analysis.git
