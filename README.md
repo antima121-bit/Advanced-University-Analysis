@@ -90,7 +90,7 @@ This project is licensed under the MIT License.
 ### 📬 Contact
 For queries, collaborations, or feedback:
 
-### 📧 Email: [antimamishra113@example.com]
+### 📧 Email: antimamishra113@gmail.com
 
 ### 🧑 GitHub: @antima121-bit
 
