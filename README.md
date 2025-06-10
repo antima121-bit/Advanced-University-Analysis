@@ -27,34 +27,63 @@ This project folder includes:
 
 ## Project Details 📝
 ### 🎓 Global Universities Success Analysis
-A comparative study of global university rankings, research output, and student satisfaction metrics, helping stakeholders in academic decision-making.
+🎓 Global Universities Success Analysis
+A comprehensive comparative analysis of global universities using metrics such as:
 
----
+Research Output
 
-## Contributing 🤝
+Student Satisfaction Scores
 
-Contributions are welcome! If you would like to improve any project, add new insights, or enhance visualizations, please feel free to fork this repository, make your changes, and submit a pull request.
+Global Rankings
 
-1. Fork the repository.
-2. Create your feature branch (`git checkout -b feature/YourFeature`).
-3. Commit your changes (`git commit -m 'Add Your Feature'`).
-4. Push to the branch (`git push origin feature/YourFeature`).
-5. Open a pull request.
+Funding and Grants
 
----
+International Collaboration
 
-## License 📜
+This dashboard empowers academic decision-makers to:
 
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+Identify top-performing institutions
 
----
+Benchmark key success indicators
 
-Feel free to reach out for collaboration, queries, or project discussions!
+Drive policy improvements for global competitiveness
 
----
+### 💡 Usage
+***Clone the Repository***
+bash
+Copy
+Edit
+git clone https://github.com/antima121-bit/Advanced-University-Analysis.git
+***Open the Dashboard***
+Open Power BI Desktop.
 
-## Usage 🛠️
+Click on File > Open and select the .pbix file from the project directory.
 
-1. **Clone this Repository**:
-   ```bash
-   git clone https://github.com/antima121-bit/Advanced-University-Analysis.git
+Review and interact with the report.
+
+### 🤝 Contributing
+Contributions are welcome! If you want to suggest improvements, add new dashboards, or optimize existing visuals:
+
+***Fork this repository.***
+
+Create a new branch:
+git checkout -b feature/YourFeature
+
+***Commit your changes:***
+git commit -m "Add new dashboard or enhancement"
+
+***Push to the branch:***
+git push origin feature/YourFeature
+
+Open a pull request. ✅
+
+### 📄 License
+This project is licensed under the MIT License.
+
+### 📬 Contact
+For queries, collaborations, or feedback:
+
+### 📧 Email: [antimamishra113@example.com]
+
+### 🧑 GitHub: @antima121-bit
+
