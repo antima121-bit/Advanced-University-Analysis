@@ -47,7 +47,12 @@ A comprehensive comparative analysis of global universities using metrics such a
 2.Benchmark key success indicators
 
 **Drive policy improvements for global competitiveness**
+![overview](https://github.com/user-attachments/assets/c33590ff-08bf-463a-a1f6-e9b5a495e261)
 
+![country_analysis](https://github.com/user-attachments/assets/c0b5d34e-1761-4811-9c8e-23bc32ac9aa8)
+![ranking_analysis](https://github.com/user-attachments/assets/1e8239d1-669e-4982-ba71-ab9320997bae)
+![university_analysis](https://github.com/user-attachments/assets/cae3db9c-1715-4efc-8249-bdd1a23ad733)
+![yearly_analysis](https://github.com/user-attachments/assets/89e4bc4d-777a-4974-a735-0efc2abd0d69)
 
 ### 💡 Usage
 ***Clone the Repository***
