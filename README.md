@@ -40,7 +40,7 @@ A comprehensive comparative analysis of global universities using metrics such a
 
 5.International Collaboration
 
-## This dashboard empowers academic decision-makers to:
+### This dashboard empowers academic decision-makers to:
 
 1.Identify top-performing institutions
 
@@ -48,12 +48,14 @@ A comprehensive comparative analysis of global universities using metrics such a
 
 **Drive policy improvements for global competitiveness**
 
+
 ### 💡 Usage
 ***Clone the Repository***
 bash
 Copy
 Edit
 git clone https://github.com/antima121-bit/Advanced-University-Analysis.git
+
 ***Open the Dashboard***
 Open Power BI Desktop.
 
