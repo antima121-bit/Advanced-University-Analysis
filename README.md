@@ -30,23 +30,23 @@ This project folder includes:
 🎓 Global Universities Success Analysis
 A comprehensive comparative analysis of global universities using metrics such as:
 
-Research Output
+1.Research Output
 
-Student Satisfaction Scores
+2.Student Satisfaction Scores
 
-Global Rankings
+3.Global Rankings
 
-Funding and Grants
+4.Funding and Grants
 
-International Collaboration
+5.International Collaboration
 
-This dashboard empowers academic decision-makers to:
+## This dashboard empowers academic decision-makers to:
 
-Identify top-performing institutions
+1.Identify top-performing institutions
 
-Benchmark key success indicators
+2.Benchmark key success indicators
 
-Drive policy improvements for global competitiveness
+**Drive policy improvements for global competitiveness**
 
 ### 💡 Usage
 ***Clone the Repository***
